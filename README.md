@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Hello World , Saya Afandy Adi Putra 😘 <br>
 
-<!--
-**panD67/panD67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Informatika Universitas Muhanmadiyah Surabaya 🐊
+*Saya sedang belajar dasar  Git & Github, lalu mengeksplorasi  AI & Machine Learning*
 
-Here are some ideas to get you started:
+# Tentang Saya
+*Alumni = SMK MUHAMMDIYAH 1 SURABAYA* <br>
+*Hobi = Menggambar & Bermain Efootball* <br>
+*Keahlian = Banyak* <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skill yang dikuasai
+*HTML CSS Javascript*
+<a href="https://www.instagram.com/pandyyap?psln=MW42OHI0ZnpzOHdvdQ==" target="blank">Lihat instagram Saya Dan Follow Ya</a>
